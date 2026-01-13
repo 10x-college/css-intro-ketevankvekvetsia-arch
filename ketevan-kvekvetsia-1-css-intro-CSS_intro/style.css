@@ -88,4 +88,49 @@ h1{
     letter-spacing: 0%;
     color: #FFFFFF;
 }
+section{
+    text-align: center;
+    width: 1200px;
+    margin: 0 auto;
+
+}
+.articles-container{
+    display: flex;
+   
+ }
+
+.rectangle{
+    width: 360px;
+    height: 240px;
+    opacity: 1;
+    top: 608px;
+    left: 428px;
+ 
+
+}
+
+.color-r-1{
+    background-color: #C7B8FF;
+
+}
+.color-r-2{
+    background-color: #FFB8D8;
+
+}
+.color-r-3{
+    background-color: #B8E0FF;
+
+}
+.color-r-4{
+    background-color: #D4FFB8;
+
+}
+.color-r-5{
+    background-color: #FFE4B8;
+
+}
+.color-r-6{
+    background-color:#FFD4B8;
+
+}
 
