@@ -89,14 +89,16 @@ h1{
     color: #FFFFFF;
 }
 section{
-    text-align: center;
     width: 1200px;
     margin: 0 auto;
 
+}   
+article{
+    width: 360px;
+    margin-right: 20px;
 }
 .articles-container{
     display: flex;
-   
  }
 
 .rectangle{
@@ -133,4 +135,51 @@ section{
     background-color:#FFD4B8;
 
 }
+
+h2{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+    
+}
+
+h3{
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 22px;    
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    margin: 20px;
+    padding-right: 40px; 
+
+}
+
+.font-ar{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0%; 
+    text-align: left;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    margin: 20px; 
+
+}
+.fnot-size-13{
+    font-size: 13px;
+}
+
+
+
+
 
