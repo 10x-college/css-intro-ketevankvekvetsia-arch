@@ -1,0 +1,255 @@
+
+/* *{
+    background-color: rgb(224, 215, 233);
+} */
+header{
+    width: 1240px;
+    height: 72px;
+    opacity: 1;
+    margin: 0 auto;
+    background-color: #F5F5F7;
+    display: flex;
+    align-items: center;
+}
+.Tech{
+    width: 110px;
+    height: 29px;
+    opacity: 1;
+    top: 22px;
+    left: 375px;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:  #5B47D1;
+    margin-right: 75px;
+    margin-left: 20px;
+   
+
+}
+
+.font-h{
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:  #000000;
+    width: 749;
+    height: 29;
+    opacity: 1;
+    margin-left: 15px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+h1{
+    width: 975px;
+    height: 58px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+
+
+}
+.title-wrapper {
+    width: 1920px;
+    height: 400px;
+    background-image: url("img/22.jpg");
+    display: flex;     
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;     
+    text-align: center;
+    margin: 0 auto;
+
+
+}
+.title-Description{
+    width: 641px;
+    height: 24px;
+    opacity: 1;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+section{
+    width: 1200px;
+    margin: 0 auto;
+
+}   
+article{
+    width: 360px;
+    margin-right: 20px;
+}
+.articles-container{
+    display: flex;
+ }
+
+.rectangle{
+    width: 360px;
+    height: 240px;
+    opacity: 1;
+    top: 608px;
+    left: 428px;
+ 
+
+}
+
+.color-r-1{
+    background-color: #C7B8FF;
+
+}
+.color-r-2{
+    background-color: #FFB8D8;
+
+}
+.color-r-3{
+    background-color: #B8E0FF;
+
+}
+.color-r-4{
+    background-color: #D4FFB8;
+
+}
+.color-r-5{
+    background-color: #FFE4B8;
+
+}
+.color-r-6{
+    background-color:#FFD4B8;
+
+}
+
+h2{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+    
+}
+
+h3{
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 22px;    
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: left;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    margin: 20px;
+    padding-right: 40px; 
+
+}
+
+.font-ar{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0%; 
+    text-align: left;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    margin: 20px; 
+
+}
+
+footer{
+    background-color: #252424  ;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 1920px;
+}
+.footer-div2{
+    display: flex;
+    margin: 40px;
+   
+
+}
+.footer-div1{
+    width: 1240px;
+    opacity: 1;
+    margin: 0 auto;
+
+}
+
+.footer-techblog{
+    width: 296px;
+
+}
+
+
+.footer-nav{
+    width: 181px;
+    margin-left: 80px;
+
+}
+
+address{
+    margin: 40px;
+
+}
+
+h4{
+    font-family: Inter;
+    font-weight: 600;
+    font-style: Semi Bold;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+
+}
+.footer-font-1{
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #A1A1A6;
+
+}
+.footer-font-waight-600{
+    font-weight: 600;
+}
+
+.fnot-size-13{
+    font-size: 13px;
+}
+small{
+    display: flex;
+    background-color: #020202;
+    width: 1920px;
+    height: 55px;
+    opacity: 1;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
